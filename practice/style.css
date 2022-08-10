@@ -1,0 +1,19 @@
+body{
+    background-color: #73ccf5;
+    background-image: -moz-repeating-radial-gradient();
+
+}
+#p1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    text-decoration: dotted;
+    text-shadow: #73ccf5;
+    background-color: azure;
+}
+#p2{
+    border-style: double;
+    border-color: goldenrod;
+    border-radius: 5px;
+    border-width: 5px;
+    padding: 5px;
+}
